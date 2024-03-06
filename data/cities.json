@@ -1,88 +1,52 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
-      "cityName": "Madrid",
+      "cityName": "Maella",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
+      "date": "2024-01-08T20:04:03.692Z",
       "notes": "",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "41.10986960289992",
+        "lng": "0.08216554501843111"
       },
-      "id": 17806751
+      "id": 73930387
     },
     {
-      "cityName": "Montierchaume",
+      "cityName": "Ayllon",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-03-04T11:58:22.752Z",
+      "notes": "",
+      "position": {
+        "lat": "41.33942522591545",
+        "lng": "-3.277941045423112"
+      },
+      "id": 73930388
+    },
+    {
+      "cityName": "Mouroux",
       "country": "France",
       "emoji": "🇫🇷",
-      "date": "2024-01-01T16:05:16.415Z",
+      "date": "2024-03-04T11:59:44.037Z",
       "notes": "",
       "position": {
-        "lat": "46.8276305142601",
-        "lng": "1.7542387046626562"
+        "lat": "48.84805295027437",
+        "lng": "3.050611408529003"
       },
-      "id": 98443200
+      "id": 73930389
     },
     {
-      "cityName": "Talarrubias",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-06T16:14:01.205Z",
+      "cityName": "Ramat Gan",
+      "country": "Israel",
+      "emoji": "🇮🇱",
+      "date": "2024-03-04T14:46:33.497Z",
       "notes": "",
       "position": {
-        "lat": "39.196976165099926",
-        "lng": "-5.1667696122280775"
+        "lat": "32.05552613027263",
+        "lng": "34.82830153643541"
       },
-      "id": 98443201
-    },
-    {
-      "cityName": "Andujar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-06T16:14:05.059Z",
-      "notes": "",
-      "position": {
-        "lat": "38.20247352055907",
-        "lng": "-4.046984014173113"
-      },
-      "id": 98443202
-    },
-    {
-      "cityName": "Mondejar",
-      "country": "Spain",
-      "emoji": "🇪🇸",
-      "date": "2024-01-06T16:14:07.239Z",
-      "notes": "",
-      "position": {
-        "lat": "40.3293238838128",
-        "lng": "-3.102110743330244"
-      },
-      "id": 98443203
-    },
-    {
-      "cityName": "Obukhiv",
-      "country": "Ukraine",
-      "emoji": "🇺🇦",
-      "date": "2024-01-06T16:14:13.227Z",
-      "notes": "",
-      "position": {
-        "lat": "50.09226291259803",
-        "lng": "30.523366407094873"
-      },
-      "id": 98443204
+      "id": 73930390
     }
   ]
 }
