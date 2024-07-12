@@ -1,8 +1,17 @@
-# React + Vite
+Project Title
+A React application with routing and protected routes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Description
+This project demonstrates a React application with routing using react-router-dom. It includes various pages and components, and utilizes context providers for authentication and city data.
 
-Currently, two official plugins are available:
+Routes
+/ - Homepage
+/product - Product page
+/pricing - Pricing page
+/app - Protected route
+/app/cities - List of cities
+/app/cities/:id - City details
+/app/countries - List of countries
+/app/form - Form page
+/login - Login page
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
